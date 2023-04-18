@@ -1,4 +1,4 @@
-# Multilabel Classification Neural Network Tutorial
+# Multi-label Classification Neural Network Tutorial
 By: Caitlyn Nguyen
 
 ## Introduction
